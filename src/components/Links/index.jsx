@@ -1,5 +1,4 @@
-
-import styles from '../styles/Links.module.css'
+import styles from 'src/components/Links/Links.module.css'
 
 const ITEMS = [
   { href : "https://nextjs.org/docs" ,
